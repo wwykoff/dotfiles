@@ -1,0 +1,5 @@
+[user]
+	email = william.wykoff@gmail.com
+	name = William Wykoff
+[alias]
+	lg = log --color --graph --abbrev-commit --branches --tags --remotes --oneline
