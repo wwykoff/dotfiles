@@ -1,3 +1,5 @@
+set t_Co=256
+
 syntax on
 set encoding=utf-8
 
@@ -21,3 +23,4 @@ set history=1000
 
 set wildignore+=.pyc,.swp
 
+nnoremap <C-o> :NERDTree<CR>
